@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 55px;
+}
+
+.home-logo {
+  width: 180px;
+}
+
+.home {
+  font-family: 'Roboto';
+  font-size: 55px;
+  color: #551e53;
+  padding-top: 35px;
+}
